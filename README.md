@@ -12,6 +12,15 @@ to explore data related to bike share systems for three major cities in the Unit
 ### Modules used
 pandas, numpy and time
 
+### Functions
+1. get_filters
+2. load_data
+3. time_stats
+4. station_stats
+5. trip_duration_stats
+6. user_stats
+7. raw_data
+
 ### Files used
 bikeshare.py
 
