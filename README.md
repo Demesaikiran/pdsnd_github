@@ -34,8 +34,11 @@ pandas, numpy and time
     >Displays the data due filteration such that 5 rows will be added in each press
 
 ### Files used
-bikeshare.py
-
+1. bikeshare.py
+2. City_User data
+    >Washington
+    >Chicago
+    >New_york
 
 ### Credits
 Udacity team
