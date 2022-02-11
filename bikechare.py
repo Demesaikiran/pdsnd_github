@@ -141,7 +141,7 @@ def user_stats(df):
         gender_count = df['Gender'].value_counts()
         
     except:
-        print("There is no data regarding gender")
+        print("There is no data regarding your specified gender")
     else:
         print(gender_count)
     
